@@ -16,3 +16,5 @@
 ## Note
 
 - This is only the backend implementation, can test the APIs in Postman
+- Can Upload all kinds of files using this approach
+- Free Cloudinary account has been used in this project so it can only take videos and photo uploads
